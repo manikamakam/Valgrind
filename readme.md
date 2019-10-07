@@ -13,7 +13,10 @@ cmake ..
 make
 Run tests: ./test/cpp-test
 Run program: ./app/shell-app
+
 ```
+## Valgrind outputs
+
 The following commands were run and the detected two bugs were fixed
 
 1. valgrind ./app/shell-app
